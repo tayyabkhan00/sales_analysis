@@ -79,13 +79,4 @@ Matplotlib
 
 Seaborn
 
-▶️ How to Run Locally
-1. Clone the repository
-git clone https://github.com/your-username/sales-analysis-dashboard.git
-cd sales-analysis-dashboard
-
-2. Install dependencies
-pip install -r requirements.txt
-
-3. Run the Streamlit app
-streamlit run sales_analysis_streamlit.py
+[VIEW DASHBOARD]()
